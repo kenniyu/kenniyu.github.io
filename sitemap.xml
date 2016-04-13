@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://kenniyu.github.io/blog/2016/04/12/exploring-upper-side-of-balance-area/</loc>
+<lastmod>2016-04-12T23:19:17-07:00</lastmod>
+</url>
+<url>
 <loc>http://kenniyu.github.io/blog/2016/04/11/still-in-balance/</loc>
 <lastmod>2016-04-11T20:31:30-07:00</lastmod>
 </url>
@@ -308,5 +312,14 @@
 </url>
 <url>
 <loc>http://kenniyu.github.io/blog/categories/balance/</loc>
+</url>
+<url>
+<loc>http://kenniyu.github.io/posts/2/</loc>
+</url>
+<url>
+<loc>http://kenniyu.github.io/posts/3/</loc>
+</url>
+<url>
+<loc>http://kenniyu.github.io/posts/4/</loc>
 </url>
 </urlset>
