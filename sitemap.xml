@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://kenniyu.github.io/blog/2016/04/30/an-edge-to-the-bears/</loc>
+<lastmod>2016-04-30T09:58:05-07:00</lastmod>
+</url>
+<url>
 <loc>http://kenniyu.github.io/blog/2016/04/29/yesterdays-liquidation-break-going-forward/</loc>
 <lastmod>2016-04-29T05:03:36-07:00</lastmod>
 </url>
@@ -372,6 +376,12 @@
 </url>
 <url>
 <loc>http://kenniyu.github.io/blog/categories/volume-profile/</loc>
+</url>
+<url>
+<loc>http://kenniyu.github.io/blog/categories/volume-composite/</loc>
+</url>
+<url>
+<loc>http://kenniyu.github.io/blog/categories/targets/</loc>
 </url>
 <url>
 <loc>http://kenniyu.github.io/posts/2/</loc>
