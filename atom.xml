@@ -4,7 +4,7 @@
   <title><![CDATA[ThetaTrades]]></title>
   <link href="http://kenniyu.github.io/atom.xml" rel="self"/>
   <link href="http://kenniyu.github.io/"/>
-  <updated>2016-05-09T19:39:20-07:00</updated>
+  <updated>2016-05-10T05:35:22-07:00</updated>
   <id>http://kenniyu.github.io/</id>
   <author>
     <name><![CDATA[theta]]></name>
@@ -12,6 +12,34 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Mind the HVNs]]></title>
+    <link href="http://kenniyu.github.io/blog/2016/05/10/mind-the-hvns/"/>
+    <updated>2016-05-10T05:32:39-07:00</updated>
+    <id>http://kenniyu.github.io/blog/2016/05/10/mind-the-hvns</id>
+    <content type="html"><![CDATA[<p>Yesterday&rsquo;s trade was very evenly distributed around the POC, with a small value area range, so it was a fairly decent balance day:</p>
+
+<p><a href="http://kenniyu.github.io/images/blog/05102016/es.png"><img src="http://kenniyu.github.io/images/blog/05102016/es.png" alt="/ES - 2016-05-10 - 5m Chart - Volume Profile" /></a></p>
+
+<p>Traders were able to find acceptance back in the upper distributions of last Thursday&rsquo;s and Friday&rsquo;s trade. They managed to build value higher, albeit overlapping, thus not really a sign of any momentum. Again, we&rsquo;re seeing low confidence as traders have no idea where to go from here.</p>
+
+<p>/ES is currently trading at 2062. Overnight inventory is net long. On an intraday basis, when we open, watch the internals and see if the $TICKs have a hard time reaching 0. That will tell you whether or not there is a gap fade play. If the $TICK quickly shoots downwards, here are some downside targets for the gap fade:</p>
+
+<ol>
+<li>yesterday&rsquo;s high at 2057.75</li>
+<li>value area high at 2056.75</li>
+<li>POC at 2054</li>
+<li>value area low 2051.50</li>
+<li>yesterday&rsquo;s low at 2048.25</li>
+</ol>
+
+
+<p>Note the High Volume Nodes (HVN) at around <strong>2051</strong>, <strong>2075</strong>, and <strong>2085</strong>. Remember that prices tend to get pulled in those directions. With the /ES currently at 2062 (low volume node), expect prices to migrate away from here and possibly find acceptance near one of the HVNs.</p>
+
+<p>That&rsquo;s it for today&rsquo;s morning market outlook. If you haven&rsquo;t already, make sure to <a href="https://twitter.com/theta_positive" title="Follow @thetatrades on Twitter">follow me on Twitter</a> to receive my tweets in real time. I&rsquo;ll be posting all of my trade entries, adjustments, and exits.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Low Confidence Continues]]></title>
@@ -655,23 +683,6 @@
 <p>That&rsquo;s it for today. I&rsquo;ll keep posting new entries/adjustments on Twitter, so be sure to <a href="https://twitter.com/theta_positive" title="Follow @thetatrades on Twitter">follow me on Twitter</a> to get all of my updates in real time.</p>
 
 <p>Good luck in the markets and good trading!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Exploring Upper Side of Balance Area]]></title>
-    <link href="http://kenniyu.github.io/blog/2016/04/12/exploring-upper-side-of-balance-area/"/>
-    <updated>2016-04-12T23:19:17-07:00</updated>
-    <id>http://kenniyu.github.io/blog/2016/04/12/exploring-upper-side-of-balance-area</id>
-    <content type="html"><![CDATA[<p>I&rsquo;ll keep the post today short, as nothing much as changed.</p>
-
-<p><a href="http://kenniyu.github.io/images/blog/04122016/esm6.png"><img src="http://kenniyu.github.io/images/blog/04122016/esm6.png" alt="/ESM6 - 2016-04-12 - Market Profile - 15d Zoomed In" /></a></p>
-
-<p>We&rsquo;re still inside the large balance area between 2012.25 and 2067. From the movement today, it appears we&rsquo;ll reach the upper side of the balance area tomorrow, and we&rsquo;ll need to pay close attention to the strength of the breakout to the upside from there. Keep in mind 2067 was the overnight high that was had not revisited yet. Intraday tomorrow, we may see multiple touches of this level, and multiple backing-offs. If we do see this kind of action, be prepared for an even stronger breakout.</p>
-
-<p>That&rsquo;s it for today - will keep posting new entries/adjustments on Twitter, so be sure to <a href="https://twitter.com/theta_positive" title="Follow @thetatrades on Twitter">follow me on Twitter</a> to get all of my updates in real time.</p>
-
-<p>Good luck tomorrow!</p>
 ]]></content>
   </entry>
   
