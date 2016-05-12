@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://kenniyu.github.io/blog/2016/05/12/extremely-low-confidence-remaining-neutral-for-now/</loc>
+<lastmod>2016-05-12T06:05:12-07:00</lastmod>
+</url>
+<url>
 <loc>http://kenniyu.github.io/blog/2016/05/11/expecting-consolidation-before-next-hvn-at-2085/</loc>
 <lastmod>2016-05-11T05:50:34-07:00</lastmod>
 </url>
@@ -432,5 +436,20 @@
 </url>
 <url>
 <loc>http://kenniyu.github.io/blog/categories/hvn/</loc>
+</url>
+<url>
+<loc>http://kenniyu.github.io/posts/2/</loc>
+</url>
+<url>
+<loc>http://kenniyu.github.io/posts/3/</loc>
+</url>
+<url>
+<loc>http://kenniyu.github.io/posts/4/</loc>
+</url>
+<url>
+<loc>http://kenniyu.github.io/posts/5/</loc>
+</url>
+<url>
+<loc>http://kenniyu.github.io/posts/6/</loc>
 </url>
 </urlset>
