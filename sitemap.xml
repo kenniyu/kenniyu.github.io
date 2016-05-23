@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://kenniyu.github.io/blog/2016/05/23/market-remains-in-balance/</loc>
+<lastmod>2016-05-23T05:25:23-07:00</lastmod>
+</url>
+<url>
 <loc>http://kenniyu.github.io/blog/2016/05/13/nothing-new/</loc>
 <lastmod>2016-05-13T05:32:26-07:00</lastmod>
 </url>
@@ -446,6 +450,9 @@
 </url>
 <url>
 <loc>http://kenniyu.github.io/blog/categories/value-area/</loc>
+</url>
+<url>
+<loc>http://kenniyu.github.io/blog/categories/descending-channel/</loc>
 </url>
 <url>
 <loc>http://kenniyu.github.io/posts/2/</loc>
