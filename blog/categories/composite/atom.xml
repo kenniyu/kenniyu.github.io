@@ -2,17 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: composite | ThetaTrades]]></title>
-<<<<<<< HEAD
   <link href="http://www.thetatrades.com/blog/categories/composite/atom.xml" rel="self"/>
   <link href="http://www.thetatrades.com/"/>
   <updated>2016-11-26T16:28:15-08:00</updated>
   <id>http://www.thetatrades.com/</id>
-=======
-  <link href="http://kenniyu.github.io/blog/categories/composite/atom.xml" rel="self"/>
-  <link href="http://kenniyu.github.io/"/>
-  <updated>2016-06-26T18:17:46-07:00</updated>
-  <id>http://kenniyu.github.io/</id>
->>>>>>> 3b1d3c5d6f5e3542a7b3c767da4fbf0bf8688191
   <author>
     <name><![CDATA[theta]]></name>
     
@@ -22,15 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Preparing for an Upside Breakout]]></title>
-<<<<<<< HEAD
     <link href="http://www.thetatrades.com/blog/2016/06/04/preparing-for-an-upside-breakout/"/>
     <updated>2016-06-04T10:08:28-07:00</updated>
     <id>http://www.thetatrades.com/blog/2016/06/04/preparing-for-an-upside-breakout</id>
-=======
-    <link href="http://kenniyu.github.io/blog/2016/06/04/preparing-for-an-upside-breakout/"/>
-    <updated>2016-06-04T10:08:28-07:00</updated>
-    <id>http://kenniyu.github.io/blog/2016/06/04/preparing-for-an-upside-breakout</id>
->>>>>>> 3b1d3c5d6f5e3542a7b3c767da4fbf0bf8688191
     <content type="html"><![CDATA[<p>Why next week should be bullish</p>
 
 <p>Much of the trade this past week contributed to developing the big balance area between 2082.50 and 2106:</p>
@@ -85,15 +72,9 @@
   
   <entry>
     <title type="html"><![CDATA[Expecting Some Consolidation]]></title>
-<<<<<<< HEAD
     <link href="http://www.thetatrades.com/blog/2016/05/26/expecting-some-consolidation/"/>
     <updated>2016-05-26T05:57:04-07:00</updated>
     <id>http://www.thetatrades.com/blog/2016/05/26/expecting-some-consolidation</id>
-=======
-    <link href="http://kenniyu.github.io/blog/2016/05/26/expecting-some-consolidation/"/>
-    <updated>2016-05-26T05:57:04-07:00</updated>
-    <id>http://kenniyu.github.io/blog/2016/05/26/expecting-some-consolidation</id>
->>>>>>> 3b1d3c5d6f5e3542a7b3c767da4fbf0bf8688191
     <content type="html"><![CDATA[<p>Here&rsquo;s the volume composite again on the /ES over the past month:</p>
 
 <p><a href="/images/blog/05262016/es.png"><img src="/images/blog/05262016/es.png" alt="/ES - 2016-05-26 - 1h Chart - Volume Composite" /></a></p>
@@ -112,15 +93,9 @@
   
   <entry>
     <title type="html"><![CDATA[Watch Development of HVN at 2075-2085]]></title>
-<<<<<<< HEAD
     <link href="http://www.thetatrades.com/blog/2016/05/25/watch-development-of-hvn-at-2075-2085/"/>
     <updated>2016-05-25T06:27:07-07:00</updated>
     <id>http://www.thetatrades.com/blog/2016/05/25/watch-development-of-hvn-at-2075-2085</id>
-=======
-    <link href="http://kenniyu.github.io/blog/2016/05/25/watch-development-of-hvn-at-2075-2085/"/>
-    <updated>2016-05-25T06:27:07-07:00</updated>
-    <id>http://kenniyu.github.io/blog/2016/05/25/watch-development-of-hvn-at-2075-2085</id>
->>>>>>> 3b1d3c5d6f5e3542a7b3c767da4fbf0bf8688191
     <content type="html"><![CDATA[<p>/ES broke out of the descending channel yesterday and closed strong above it. This is slightly bullish, but in a long term perspective, still neutral:</p>
 
 <p><a href="/images/blog/05252016/es.png"><img src="/images/blog/05252016/es.png" alt="/ES - 2016-05-25 - 1h Chart - Volume Composite" /></a></p>

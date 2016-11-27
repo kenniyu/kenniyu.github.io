@@ -1,8 +1,4 @@
 User-agent: *
 Disallow: 
 
-<<<<<<< HEAD
 Sitemap: http://www.thetatrades.com/sitemap.xml 
-=======
-Sitemap: http://kenniyu.github.io/sitemap.xml 
->>>>>>> 3b1d3c5d6f5e3542a7b3c767da4fbf0bf8688191

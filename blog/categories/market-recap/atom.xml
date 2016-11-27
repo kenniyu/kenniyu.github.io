@@ -2,17 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: market recap | ThetaTrades]]></title>
-<<<<<<< HEAD
   <link href="http://www.thetatrades.com/blog/categories/market-recap/atom.xml" rel="self"/>
   <link href="http://www.thetatrades.com/"/>
   <updated>2016-11-26T16:28:15-08:00</updated>
   <id>http://www.thetatrades.com/</id>
-=======
-  <link href="http://kenniyu.github.io/blog/categories/market-recap/atom.xml" rel="self"/>
-  <link href="http://kenniyu.github.io/"/>
-  <updated>2016-06-26T18:17:46-07:00</updated>
-  <id>http://kenniyu.github.io/</id>
->>>>>>> 3b1d3c5d6f5e3542a7b3c767da4fbf0bf8688191
   <author>
     <name><![CDATA[theta]]></name>
     
@@ -22,15 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Value Building Higher]]></title>
-<<<<<<< HEAD
     <link href="http://www.thetatrades.com/blog/2016/04/14/value-building-higher/"/>
     <updated>2016-04-14T21:38:50-07:00</updated>
     <id>http://www.thetatrades.com/blog/2016/04/14/value-building-higher</id>
-=======
-    <link href="http://kenniyu.github.io/blog/2016/04/14/value-building-higher/"/>
-    <updated>2016-04-14T21:38:50-07:00</updated>
-    <id>http://kenniyu.github.io/blog/2016/04/14/value-building-higher</id>
->>>>>>> 3b1d3c5d6f5e3542a7b3c767da4fbf0bf8688191
     <content type="html"><![CDATA[<p>Market remains strong as value builds higher:</p>
 
 <p><a href="/images/blog/04142016/esm6.png"><img src="/images/blog/04142016/esm6.png" alt="/ESM6 - 2016-04-14 - Market Profile - 20d Zoomed In" /></a></p>
@@ -73,15 +60,9 @@
   
   <entry>
     <title type="html"><![CDATA[Breaking out of Balance]]></title>
-<<<<<<< HEAD
     <link href="http://www.thetatrades.com/blog/2016/04/13/breaking-out-of-balance/"/>
     <updated>2016-04-13T18:18:12-07:00</updated>
     <id>http://www.thetatrades.com/blog/2016/04/13/breaking-out-of-balance</id>
-=======
-    <link href="http://kenniyu.github.io/blog/2016/04/13/breaking-out-of-balance/"/>
-    <updated>2016-04-13T18:18:12-07:00</updated>
-    <id>http://kenniyu.github.io/blog/2016/04/13/breaking-out-of-balance</id>
->>>>>>> 3b1d3c5d6f5e3542a7b3c767da4fbf0bf8688191
     <content type="html"><![CDATA[<p>The market broke out of balance very clearly today to the upside as we mentioned yesterday:</p>
 
 <p><a href="/images/blog/04132016/esm6.png"><img src="/images/blog/04132016/esm6.png" alt="/ESM6 - 2016-04-13 - Market Profile - 15d Zoomed In" /></a></p>
@@ -110,15 +91,9 @@
   
   <entry>
     <title type="html"><![CDATA[Preparing for a Breakout]]></title>
-<<<<<<< HEAD
     <link href="http://www.thetatrades.com/blog/2016/04/09/preparing-for-a-breakout/"/>
     <updated>2016-04-09T13:26:26-07:00</updated>
     <id>http://www.thetatrades.com/blog/2016/04/09/preparing-for-a-breakout</id>
-=======
-    <link href="http://kenniyu.github.io/blog/2016/04/09/preparing-for-a-breakout/"/>
-    <updated>2016-04-09T13:26:26-07:00</updated>
-    <id>http://kenniyu.github.io/blog/2016/04/09/preparing-for-a-breakout</id>
->>>>>>> 3b1d3c5d6f5e3542a7b3c767da4fbf0bf8688191
     <content type="html"><![CDATA[<p>This market has been consolidating in a big balance area for a while now, with the volume POC for the past 15 days at around the 2040.75 level in the /ES:</p>
 
 <p><a href="/images/blog/04092016/esm6.png"><img src="/images/blog/04092016/esm6.png" alt="/ESM6 - 2016-04-09 - Market Profile" /></a></p>
@@ -159,15 +134,9 @@
   
   <entry>
     <title type="html"><![CDATA[More Low Confidence]]></title>
-<<<<<<< HEAD
     <link href="http://www.thetatrades.com/blog/2016/04/06/more-consolidation/"/>
     <updated>2016-04-06T19:08:41-07:00</updated>
     <id>http://www.thetatrades.com/blog/2016/04/06/more-consolidation</id>
-=======
-    <link href="http://kenniyu.github.io/blog/2016/04/06/more-consolidation/"/>
-    <updated>2016-04-06T19:08:41-07:00</updated>
-    <id>http://kenniyu.github.io/blog/2016/04/06/more-consolidation</id>
->>>>>>> 3b1d3c5d6f5e3542a7b3c767da4fbf0bf8688191
     <content type="html"><![CDATA[<p>Market continues to consolidate here. As I mentioned yesterday, I just didn&rsquo;t see enough sellers, and that spells low confidence.</p>
 
 <p>Looking at the SPX:</p>
@@ -202,15 +171,9 @@
   
   <entry>
     <title type="html"><![CDATA[Choppy Market with Low Volume]]></title>
-<<<<<<< HEAD
     <link href="http://www.thetatrades.com/blog/2016/03/28/choppy-market-with-low-volume/"/>
     <updated>2016-03-28T18:36:41-07:00</updated>
     <id>http://www.thetatrades.com/blog/2016/03/28/choppy-market-with-low-volume</id>
-=======
-    <link href="http://kenniyu.github.io/blog/2016/03/28/choppy-market-with-low-volume/"/>
-    <updated>2016-03-28T18:36:41-07:00</updated>
-    <id>http://kenniyu.github.io/blog/2016/03/28/choppy-market-with-low-volume</id>
->>>>>>> 3b1d3c5d6f5e3542a7b3c767da4fbf0bf8688191
     <content type="html"><![CDATA[<p>We continue to chop and grind here on low volume. Nothing interesting happening here that I haven&rsquo;t mentioned before. All of the charts pretty much look the same as Friday, but I&rsquo;ll post them here again.</p>
 
 <p>SPX:</p>

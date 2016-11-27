@@ -2,17 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: cognitive dissonance | ThetaTrades]]></title>
-<<<<<<< HEAD
   <link href="http://www.thetatrades.com/blog/categories/cognitive-dissonance/atom.xml" rel="self"/>
   <link href="http://www.thetatrades.com/"/>
   <updated>2016-11-26T16:28:15-08:00</updated>
   <id>http://www.thetatrades.com/</id>
-=======
-  <link href="http://kenniyu.github.io/blog/categories/cognitive-dissonance/atom.xml" rel="self"/>
-  <link href="http://kenniyu.github.io/"/>
-  <updated>2016-06-26T18:17:46-07:00</updated>
-  <id>http://kenniyu.github.io/</id>
->>>>>>> 3b1d3c5d6f5e3542a7b3c767da4fbf0bf8688191
   <author>
     <name><![CDATA[theta]]></name>
     
@@ -22,15 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Further Upside Expected]]></title>
-<<<<<<< HEAD
     <link href="http://www.thetatrades.com/blog/2016/03/11/further-upside-expected/"/>
     <updated>2016-03-11T18:45:36-08:00</updated>
     <id>http://www.thetatrades.com/blog/2016/03/11/further-upside-expected</id>
-=======
-    <link href="http://kenniyu.github.io/blog/2016/03/11/further-upside-expected/"/>
-    <updated>2016-03-11T18:45:36-08:00</updated>
-    <id>http://kenniyu.github.io/blog/2016/03/11/further-upside-expected</id>
->>>>>>> 3b1d3c5d6f5e3542a7b3c767da4fbf0bf8688191
     <content type="html"><![CDATA[<p>I&rsquo;m expecting further upside in the market.</p>
 
 <p>Yesterday after the ECB announcement, traders attempted to push the market lower but were unable to do so. We looked below balance, failed, made a poor low, and then came back into balance. Then this morning, we gapped up, but with the internals so strong, no chance of a gap fade play was available, and we continued to ratchet higher.</p>

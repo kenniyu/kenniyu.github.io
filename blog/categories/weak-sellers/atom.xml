@@ -2,17 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: weak sellers | ThetaTrades]]></title>
-<<<<<<< HEAD
   <link href="http://www.thetatrades.com/blog/categories/weak-sellers/atom.xml" rel="self"/>
   <link href="http://www.thetatrades.com/"/>
   <updated>2016-11-26T16:28:15-08:00</updated>
   <id>http://www.thetatrades.com/</id>
-=======
-  <link href="http://kenniyu.github.io/blog/categories/weak-sellers/atom.xml" rel="self"/>
-  <link href="http://kenniyu.github.io/"/>
-  <updated>2016-06-26T18:17:46-07:00</updated>
-  <id>http://kenniyu.github.io/</id>
->>>>>>> 3b1d3c5d6f5e3542a7b3c767da4fbf0bf8688191
   <author>
     <name><![CDATA[theta]]></name>
     
@@ -22,15 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Bullish into Next Week]]></title>
-<<<<<<< HEAD
     <link href="http://www.thetatrades.com/blog/2016/04/02/bullish-into-next-week/"/>
     <updated>2016-04-02T11:29:57-07:00</updated>
     <id>http://www.thetatrades.com/blog/2016/04/02/bullish-into-next-week</id>
-=======
-    <link href="http://kenniyu.github.io/blog/2016/04/02/bullish-into-next-week/"/>
-    <updated>2016-04-02T11:29:57-07:00</updated>
-    <id>http://kenniyu.github.io/blog/2016/04/02/bullish-into-next-week</id>
->>>>>>> 3b1d3c5d6f5e3542a7b3c767da4fbf0bf8688191
     <content type="html"><![CDATA[<p>I&rsquo;m certain the markets will continue to climb higher next week.</p>
 
 <p>There are just not enough sellers out there. On Friday, we were able to enter into the second distribution area from the Janet Yellen day:</p>
