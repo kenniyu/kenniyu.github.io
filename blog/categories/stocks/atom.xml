@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: stocks | ThetaTrades]]></title>
+  <link href="http://www.thetatrades.com/blog/categories/stocks/atom.xml" rel="self"/>
+  <link href="http://www.thetatrades.com/"/>
+  <updated>2016-11-26T17:19:11-08:00</updated>
+  <id>http://www.thetatrades.com/</id>
+  <author>
+    <name><![CDATA[theta]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hello]]></title>
+    <link href="http://www.thetatrades.com/blog/2016/11/26/hello/"/>
+    <updated>2016-11-26T14:32:38-08:00</updated>
+    <id>http://www.thetatrades.com/blog/2016/11/26/hello</id>
+    <content type="html"><![CDATA[<p>Hello everyone, it has been a while!</p>
+
+<p>We&rsquo;ve been taking some time off on figuring out the best way to provide meaningful content. Instead of burdening ourselves with showing and updating each possible position we post, we&rsquo;ll simply provide ideas and leave the rest of the details on position management up to the discretion of the reader.</p>
+
+<p>As such, we&rsquo;ll be deprecating our old <a href="/trades" title="trades">trades</a> and <a href="/history" title="history">history</a> page, though they will be left there for, well, history. They simply won&rsquo;t be maintained or updated.</p>
+
+<p>We&rsquo;ll also be removing our limit with just options trading and expand into <a href="/blog/categories/stocks/" title="stocks">stocks</a> and <a href="/blog/categories/forex/" title="forex">forex</a>. Keep an eye out on these sections.</p>
+]]></content>
+  </entry>
+  
+</feed>

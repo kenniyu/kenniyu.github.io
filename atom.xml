@@ -4,7 +4,7 @@
   <title><![CDATA[ThetaTrades]]></title>
   <link href="http://www.thetatrades.com/atom.xml" rel="self"/>
   <link href="http://www.thetatrades.com/"/>
-  <updated>2016-11-26T16:28:15-08:00</updated>
+  <updated>2016-11-26T17:19:11-08:00</updated>
   <id>http://www.thetatrades.com/</id>
   <author>
     <name><![CDATA[theta]]></name>
@@ -18,7 +18,13 @@
     <link href="http://www.thetatrades.com/blog/2016/11/26/hello/"/>
     <updated>2016-11-26T14:32:38-08:00</updated>
     <id>http://www.thetatrades.com/blog/2016/11/26/hello</id>
-    <content type="html"><![CDATA[<p>Been a while! We&rsquo;ll be back soon with updates on options &amp; forex. Stay tuned.</p>
+    <content type="html"><![CDATA[<p>Hello everyone, it has been a while!</p>
+
+<p>We&rsquo;ve been taking some time off on figuring out the best way to provide meaningful content. Instead of burdening ourselves with showing and updating each possible position we post, we&rsquo;ll simply provide ideas and leave the rest of the details on position management up to the discretion of the reader.</p>
+
+<p>As such, we&rsquo;ll be deprecating our old <a href="http://www.thetatrades.com/trades" title="trades">trades</a> and <a href="http://www.thetatrades.com/history" title="history">history</a> page, though they will be left there for, well, history. They simply won&rsquo;t be maintained or updated.</p>
+
+<p>We&rsquo;ll also be removing our limit with just options trading and expand into <a href="http://www.thetatrades.com/blog/categories/stocks/" title="stocks">stocks</a> and <a href="http://www.thetatrades.com/blog/categories/forex/" title="forex">forex</a>. Keep an eye out on these sections.</p>
 ]]></content>
   </entry>
   
