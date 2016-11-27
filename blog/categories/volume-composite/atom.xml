@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: volume composite | ThetaTrades]]></title>
+  <link href="http://kenniyu.github.io/blog/categories/volume-composite/atom.xml" rel="self"/>
+  <link href="http://kenniyu.github.io/"/>
+  <updated>2016-11-26T14:33:50-08:00</updated>
+  <id>http://kenniyu.github.io/</id>
+  <author>
+    <name><![CDATA[theta]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Market Remains in Balance]]></title>
+    <link href="http://kenniyu.github.io/blog/2016/05/23/market-remains-in-balance/"/>
+    <updated>2016-05-23T05:25:23-07:00</updated>
+    <id>http://kenniyu.github.io/blog/2016/05/23/market-remains-in-balance</id>
+    <content type="html"><![CDATA[<p>Last week, we had a whole lot of nothing, closing the week flat where we started:</p>
+
+<p><a href="/images/blog/05232016/es.png"><img src="/images/blog/05232016/es.png" alt="/ES - 2016-05-23 - Weekly Chart" /></a></p>
+
+<p>Notice the developing high volume node around 2050 on the /ES:</p>
+
+<p><a href="/images/blog/05232016/es_profile.png"><img src="/images/blog/05232016/es_profile.png" alt="/ES - 2016-05-23 - 4h Chart - Volume Composite" /></a></p>
+
+<p>Traders love this spot, and it&rsquo;s smack in the middle of our big balance area. Consider buying wide, weekly butterflies in this area to capture a lot of theta.</p>
+
+<p>So what I&rsquo;m looking for this week on the /ES is for us to continue staying in balance along this descending channel:</p>
+
+<p><a href="/images/blog/05232016/es_channel.png"><img src="/images/blog/05232016/es_channel.png" alt="/ES - 2016-05-23 - 1d Chart - Descending Channel" /></a></p>
+
+<p>Watch for bounces off of the channel support and resistance.</p>
+
+<p>Last week we booked many winners. We had a few losers which were the small calendar debits we payed for, but they were offset by the winners significantly. As always, we&rsquo;ll be entering new trades and adjusting/exiting our existing positions, so be sure to <a href="https://twitter.com/theta_positive" title="Follow @thetatrades on Twitter">follow us on Twitter</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[About That High Volume Node]]></title>
+    <link href="http://kenniyu.github.io/blog/2016/05/04/about-that-high-volume-node/"/>
+    <updated>2016-05-04T05:13:57-07:00</updated>
+    <id>http://kenniyu.github.io/blog/2016/05/04/about-that-high-volume-node</id>
+    <content type="html"><![CDATA[<p>Congratulations to the Bears. Yesterday&rsquo;s action proved that Monday was nothing more than a fake-out, with the value overlapping Friday&rsquo;s value area. It appears that we&rsquo;re now going to explore the big balance area that we&rsquo;ve had going back from mid-March to mid-April - this is the 2012 to 2067 area:</p>
+
+<p><a href="/images/blog/05042016/es.png"><img src="/images/blog/05042016/es.png" alt="/ES - 2016-05-04 - 1hr Chart" /></a></p>
+
+<p><a href="www.thetatrades.com/blog/2016/04/30/an-edge-to-the-bears/" title="An Edge to the Bears">As I mentioned multiple times in previous posts</a>, the first target to the downside is 2040.50 - this is where that high volume node sits on the volume composite. Expect any movement to the downside be halted by that area, because that is where a lot of transactions occurred, and traders will most likely be stepping up to buy there (by the way, if you look at the overnight data, look where we stopped - 2040.75 just one tick above that high volume node). If sellers start taking control after that point, then look to target the other side of balance, which is 2012 (again, this is why I&rsquo;ve been having these reference points on the chart for so long, so I can carry this information forward for days like today).</p>
+
+<p>For today, just focus on 2040.50 and how traders accept that high volume node. Currently, the /ES is gapping down about 11.50 points as of the time of this writing. Upside reference points are yesterday&rsquo;s low at 2048, yesterday&rsquo;s value area low at 2051.50, and yesterday&rsquo;s POC at 2055.50. Keep these points in mind for upside targets today. If internals lift, these are potential targets, one after the other.</p>
+
+<p>That&rsquo;s it for the morning market outlook. We posted a few trades on Twitter yesterday, so make sure to <a href="https://twitter.com/theta_positive" title="Follow @thetatrades on Twitter">follow me on Twitter</a> to receive these tweets in real-time. Make sure you turn on notifications specifically from me. Just visit my Twitter profile on mobile, select the Settings gear, and then select the option to turn on notifications.</p>
+
+<p>Good luck in the markets today!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[A Couple of Weekend Trade Ideas]]></title>
+    <link href="http://kenniyu.github.io/blog/2016/05/01/weekend-trade-ideas/"/>
+    <updated>2016-05-01T19:37:05-07:00</updated>
+    <id>http://kenniyu.github.io/blog/2016/05/01/weekend-trade-ideas</id>
+    <content type="html"><![CDATA[<p>If we&rsquo;re expecting a bit of retracement in the broad market indices, we can take a look at IWM.</p>
+
+<p>With volatility picking up, we can also look at put calendars.</p>
+
+<p>Here&rsquo;s the Fibonacci fan on the IWM over the February rally which shows us potential retracement areas in the future:</p>
+
+<p><a href="/images/blog/05012016/iwm_fib_fan.png"><img src="/images/blog/05012016/iwm_fib_fan.png" alt="IWM - 2016-05-01 - Volume Composite" /></a></p>
+
+<p>If we&rsquo;re looking for an upcoming retracement, it helps to combine this fan with the volume profile over the past 20 days to figure out where price would have a predisposition to trade near, and see where the fan and the high volume node areas intersect. This will help us figure out the strike and expiry of our put calendar. With that, here&rsquo;s the volume profile over the past 20 days:</p>
+
+<p><a href="/images/blog/05012016/iwm_volume.png"><img src="/images/blog/05012016/iwm_volume.png" alt="IWM - 2016-05-01 - Volume Composite" /></a></p>
+
+<p>The high volume node is near 109.5 and it seems to intersect the fan about two weeks out. I&rsquo;ve highlighted this potential area in oval. This means a potential trade setup is the 109.5 put calendar, with the short strike expiring next Friday, and the long strike next next Friday. Here&rsquo;s the risk graph:</p>
+
+<p><a href="/images/blog/05012016/iwm_risk_graph.png"><img src="/images/blog/05012016/iwm_risk_graph.png" alt="IWM - 2016-05-01 - Risk Graph" /></a></p>
+
+<p>The same thing can be done with others as well. Here&rsquo;s CMG on the weekly:</p>
+
+<p><a href="/images/blog/05012016/cmg_weekly.png"><img src="/images/blog/05012016/cmg_weekly.png" alt="CMG - 2016-05-01 - Weekly" /></a></p>
+
+<p>Hanging on right above that long-term trendline support. Zooming in:</p>
+
+<p><a href="/images/blog/05012016/cmg_hourly.png"><img src="/images/blog/05012016/cmg_hourly.png" alt="CMG - 2016-05-01 - Hourly" /></a></p>
+
+<p>I&rsquo;m expecting CMG to bounce, unless the overall market exhibits extreme bearishness. If we do see that bounce, the gap made post-earnings could fill and we could potentially place a trade near the high volume node around 460 over the next couple of weeks.</p>
+
+<p>Here&rsquo;s the risk graph:</p>
+
+<p><a href="/images/blog/05012016/cmg_risk_graph.png"><img src="/images/blog/05012016/cmg_risk_graph.png" alt="CMG - 2016-05-01 - Risk Graph" /></a></p>
+
+<p>If the debit is too much, consider selling some credit spreads against it.</p>
+
+<p>This is just an idea - combining the volume composite with other TA tools like the Fibonacci fan. Feel free to apply this to things you plan on trading - it only helps. Anyway, we&rsquo;ll see how well these couple of trade ideas work out. I&rsquo;ll be looking to place these trades on, so make sure to <a href="https://twitter.com/theta_positive" title="Follow @thetatrades on Twitter">follow me on Twitter</a>, because that&rsquo;s where I post all of my trades in real-time.</p>
+
+<p>Good luck in the markets tomorrow!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[An Edge to the Bears]]></title>
+    <link href="http://kenniyu.github.io/blog/2016/04/30/an-edge-to-the-bears/"/>
+    <updated>2016-04-30T09:58:05-07:00</updated>
+    <id>http://kenniyu.github.io/blog/2016/04/30/an-edge-to-the-bears</id>
+    <content type="html"><![CDATA[<p>On Friday, we got an expansion of range yesterday, with value area gapping to the downside:</p>
+
+<p><a href="/images/blog/04302016/es_5m.png"><img src="/images/blog/04302016/es_5m.png" alt="/ESM6 - 2016-04-30 - 5m Chart - Value Area Gapping to the Downside" /></a></p>
+
+<p><a href="/blog/2016/04/29/yesterdays-liquidation-break-going-forward/" title="Liquidation Break Going Forward - Bulls and Bears Have Work to Do">In my premarket post on Friday morning</a>, I mentioned that it would be beneficial for the Bulls to hold value at or above the upper distribution of Thursday&rsquo;s profile, and for the Bears to maintain the continuation of selling and migrate the POC and value area lower.</p>
+
+<p>Well, congratulations to the Bears, because they did exactly that and were able to keep trade <em>well below</em> both of Thursday&rsquo;s distributions. When the market opened, we saw the Bulls try to push price back into Thursday&rsquo;s value area, but could not even reach it before falling back down. We then tagged the POC from 4/12, and for the rest of the day, we built value in the large balance area developed from mid-March to mid-April. By the end of the day, it was clear that Friday&rsquo;s value area is a gap below Thursday&rsquo;s. That&rsquo;s an expansion of range to the downside, and this generally signifies the start of a new trend (in this case, a down-trend):</p>
+
+<p><a href="/images/blog/04302016/es_15m.png"><img src="/images/blog/04302016/es_15m.png" alt="/ESM6 - 2016-04-30 - 15m Chart - Expansion of Range Signifying Beginning of a New Trend" /></a></p>
+
+<p>The only argument that I have against the Bears is that all of this trading seems to be of low confidence. The big rip that we saw at the end of the session tells me that shorts are nervous into the close. Still, Bulls have no confidence, either. I am, however, switching my bias from neutral to slightly bearish.</p>
+
+<p>Taking a look at the volume composite over the past 20 days:</p>
+
+<p><a href="/images/blog/04302016/es_volume_comp.png"><img src="/images/blog/04302016/es_volume_comp.png" alt="/ESM6 - 2016-04-30 - Volume Composite" /></a></p>
+
+<p>Prices have a predisposition to trade near high volume nodes. They also have a tendency to reject trading around low volume nodes. In accordance with that behavior, we can see that the next target to the downside is around 2040.50. This makes sense - looking back to early April, that was where a lot of the volume traded. So again, as a downside target reference, <strong>I&rsquo;m expecting traders to explore the 2040.50 area next.</strong></p>
+
+<p>I&rsquo;ve also been talking about how falling into this big balance area, <strong>we should expect to target the other side of balance at 2012</strong> if we start to see some sellers step up. Keep this target in mind going forward.</p>
+
+<p>Below that, there are many more weak downside reference points, but I will bring them up as we get closer to them. For now, <strong>focus on the large volume node at 2040.50, and then the balance area low at 2012.</strong></p>
+
+<p>Take this bearish move with a grain of salt, because as I mentioned earlier, all of this trading seems to be done with very low confidence.</p>
+
+<p>Let&rsquo;s take a look at the weeklies for the broad market indices. Here&rsquo;s the SPX:</p>
+
+<p><a href="/images/blog/04302016/spx.png"><img src="/images/blog/04302016/spx.png" alt="SPX - 2016-04-30 - Daily Chart" /></a></p>
+
+<p>Prior to this past week, we had a green candle that failed to close the week above the trendline resistance. This past week, we confirmed that failure by taking prices lower.</p>
+
+<p>Here&rsquo;s the DJX:</p>
+
+<p><a href="/images/blog/04302016/djx.png"><img src="/images/blog/04302016/djx.png" alt="DJX - 2016-04-30 - Daily Chart" /></a></p>
+
+<p>Very similar to the SPX. Let&rsquo;s see if we get a continuation to the downside this coming week.</p>
+
+<p>Here&rsquo;s the NDX:</p>
+
+<p><a href="/images/blog/04302016/ndx.png"><img src="/images/blog/04302016/ndx.png" alt="NDX - 2016-04-30 - Daily Chart" /></a></p>
+
+<p>This one, as continuously mentioned, is the weakest of the bunch and exhibits the bearishness more clearly than the other indices. Watch for a break of the 4300 level, and see how the 38% fib level holds.</p>
+
+<p>Here&rsquo;s the RUT:</p>
+
+<p><a href="/images/blog/04302016/rut.png"><img src="/images/blog/04302016/rut.png" alt="RUT - 2016-04-30 - Daily Chart" /></a></p>
+
+<p>Currently testing that trendline support. If that support fails, I&rsquo;ll be looking to target the upward-sloping trendline support first at around 1100.</p>
+
+<p>That&rsquo;s it for this weekend&rsquo;s market recap and outlook. With more volatility coming back into the markets, watch out for more trades from me, which I will tweet out. Make sure to <a href="https://twitter.com/theta_positive" title="Follow @thetatrades on Twitter">follow me on Twitter</a>, because that&rsquo;s where I post all of my trades in real-time. Make sure you turn on notifications specifically from me. Just visit my Twitter profile on mobile, select the Settings gear, and then select the option to turn on notifications.</p>
+
+<p>Enjoy the weekend guys, and stay safe out there.</p>
+]]></content>
+  </entry>
+  
+</feed>
