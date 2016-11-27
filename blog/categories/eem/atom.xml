@@ -2,10 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: eem | ThetaTrades]]></title>
+<<<<<<< HEAD
   <link href="http://www.thetatrades.com/blog/categories/eem/atom.xml" rel="self"/>
   <link href="http://www.thetatrades.com/"/>
   <updated>2016-11-26T16:28:15-08:00</updated>
   <id>http://www.thetatrades.com/</id>
+=======
+  <link href="http://kenniyu.github.io/blog/categories/eem/atom.xml" rel="self"/>
+  <link href="http://kenniyu.github.io/"/>
+  <updated>2016-06-26T18:17:46-07:00</updated>
+  <id>http://kenniyu.github.io/</id>
+>>>>>>> 3b1d3c5d6f5e3542a7b3c767da4fbf0bf8688191
   <author>
     <name><![CDATA[theta]]></name>
     
@@ -15,9 +22,15 @@
   
   <entry>
     <title type="html"><![CDATA[Market Still Pausing]]></title>
+<<<<<<< HEAD
     <link href="http://www.thetatrades.com/blog/2016/04/05/market-still-pausing/"/>
     <updated>2016-04-05T21:23:05-07:00</updated>
     <id>http://www.thetatrades.com/blog/2016/04/05/market-still-pausing</id>
+=======
+    <link href="http://kenniyu.github.io/blog/2016/04/05/market-still-pausing/"/>
+    <updated>2016-04-05T21:23:05-07:00</updated>
+    <id>http://kenniyu.github.io/blog/2016/04/05/market-still-pausing</id>
+>>>>>>> 3b1d3c5d6f5e3542a7b3c767da4fbf0bf8688191
     <content type="html"><![CDATA[<p>There isn&rsquo;t a lot pointing to the Bears being in full control, yet. For now, it still appears to just be consolidation. I am still watching for a break below 2033.5 on the /ES with strong follow-through before I turn bearish.</p>
 
 <p>Looking at the SPX:</p>

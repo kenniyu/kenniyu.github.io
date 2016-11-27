@@ -2,10 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: condor | ThetaTrades]]></title>
+<<<<<<< HEAD
   <link href="http://www.thetatrades.com/blog/categories/condor/atom.xml" rel="self"/>
   <link href="http://www.thetatrades.com/"/>
   <updated>2016-11-26T16:28:15-08:00</updated>
   <id>http://www.thetatrades.com/</id>
+=======
+  <link href="http://kenniyu.github.io/blog/categories/condor/atom.xml" rel="self"/>
+  <link href="http://kenniyu.github.io/"/>
+  <updated>2016-06-26T18:17:46-07:00</updated>
+  <id>http://kenniyu.github.io/</id>
+>>>>>>> 3b1d3c5d6f5e3542a7b3c767da4fbf0bf8688191
   <author>
     <name><![CDATA[theta]]></name>
     
@@ -15,9 +22,15 @@
   
   <entry>
     <title type="html"><![CDATA[Preparing for a Breakout]]></title>
+<<<<<<< HEAD
     <link href="http://www.thetatrades.com/blog/2016/04/09/preparing-for-a-breakout/"/>
     <updated>2016-04-09T13:26:26-07:00</updated>
     <id>http://www.thetatrades.com/blog/2016/04/09/preparing-for-a-breakout</id>
+=======
+    <link href="http://kenniyu.github.io/blog/2016/04/09/preparing-for-a-breakout/"/>
+    <updated>2016-04-09T13:26:26-07:00</updated>
+    <id>http://kenniyu.github.io/blog/2016/04/09/preparing-for-a-breakout</id>
+>>>>>>> 3b1d3c5d6f5e3542a7b3c767da4fbf0bf8688191
     <content type="html"><![CDATA[<p>This market has been consolidating in a big balance area for a while now, with the volume POC for the past 15 days at around the 2040.75 level in the /ES:</p>
 
 <p><a href="/images/blog/04092016/esm6.png"><img src="/images/blog/04092016/esm6.png" alt="/ESM6 - 2016-04-09 - Market Profile" /></a></p>
@@ -58,9 +71,15 @@
   
   <entry>
     <title type="html"><![CDATA[Bias Remains to the Upside Currently]]></title>
+<<<<<<< HEAD
     <link href="http://www.thetatrades.com/blog/2016/03/26/bias-remains-to-the-upside-currently/"/>
     <updated>2016-03-26T17:38:12-07:00</updated>
     <id>http://www.thetatrades.com/blog/2016/03/26/bias-remains-to-the-upside-currently</id>
+=======
+    <link href="http://kenniyu.github.io/blog/2016/03/26/bias-remains-to-the-upside-currently/"/>
+    <updated>2016-03-26T17:38:12-07:00</updated>
+    <id>http://kenniyu.github.io/blog/2016/03/26/bias-remains-to-the-upside-currently</id>
+>>>>>>> 3b1d3c5d6f5e3542a7b3c767da4fbf0bf8688191
     <content type="html"><![CDATA[<p>Remember this chart from last Friday?</p>
 
 <p><a href="/images/blog/03182016/esm6_thurs_fri.png"><img src="/images/blog/03182016/esm6_thurs_fri.png" alt="/ESM6 - 2016-03-18 Hourly Time Frame - Single Prints Separating Distributions as Weak Reference Points" /></a></p>
