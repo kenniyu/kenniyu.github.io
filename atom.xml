@@ -4,7 +4,7 @@
   <title><![CDATA[ThetaTrades]]></title>
   <link href="http://www.thetatrades.com/atom.xml" rel="self"/>
   <link href="http://www.thetatrades.com/"/>
-  <updated>2017-02-04T15:06:05-08:00</updated>
+  <updated>2017-02-04T15:25:10-08:00</updated>
   <id>http://www.thetatrades.com/</id>
   <author>
     <name><![CDATA[theta]]></name>
@@ -12,6 +12,32 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Waiting Patiently for AAPL While Getting Paid]]></title>
+    <link href="http://www.thetatrades.com/blog/2017/02/04/waiting-patiently-for-aapl-while-getting-paid/"/>
+    <updated>2017-02-04T15:11:36-08:00</updated>
+    <id>http://www.thetatrades.com/blog/2017/02/04/waiting-patiently-for-aapl-while-getting-paid</id>
+    <content type="html"><![CDATA[<p>If you&rsquo;re like me and you love owning a great stock at a lower price, but want to make money while waiting for it to be cheaper, then you&rsquo;ll like this options trading strategy.</p>
+
+<p>Here&rsquo;s the daily chart of $AAPL:</p>
+
+<h3 id="20170203-aapl">AAPL</h3>
+
+
+<p><a href="http://www.thetatrades.com/images/blog/20170204/aapl.png"><img src="http://www.thetatrades.com/images/blog/20170204/aapl.png" alt="AAPL - 2017-02-04 - Daily" /></a></p>
+
+<p>During such bullish times, the 20 period moving average (marked by the yellow curve) is a decent buy point. Which means, we don&rsquo;t mind owning some stock around the level marked currently by the yellow curve. An even number around this level would be $120.</p>
+
+<p>Going to the options table, we can look to sell the 120 Put option expiring in March, and collect about .41 in premium:</p>
+
+<p><a href="http://www.thetatrades.com/images/blog/20170204/aaploc.png"><img src="http://www.thetatrades.com/images/blog/20170204/aaploc.png" alt="AAPL Options Chain- 2017-02-04 - Daily" /></a></p>
+
+<p>That&rsquo;s $41 per contract sold. If you don&rsquo;t mind buying 100 shares of $AAPL at $120, then at least making money while sitting around and waiting for it to come down to that level would be a great way to earn some cash. If, by the time March expiration rolls around, $AAPL is still not trading near 120, then you can rinse and repeat for April expiration was well.</p>
+
+<p>If you&rsquo;re interested in more ideas like this, <a href="https://twitter.com/theta_positive" title="Follow @thetatrades on Twitter">follow me on Twitter</a> to receive my tweets in real time whenever I make posts!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Generating Monthly Cashflow from Chipotle]]></title>
@@ -691,23 +717,6 @@ The down move has been slightly overextended. If you&rsquo;re expecting a pullba
 <p>Watch for bounces off of the channel support and resistance.</p>
 
 <p>Last week we booked many winners. We had a few losers which were the small calendar debits we payed for, but they were offset by the winners significantly. As always, we&rsquo;ll be entering new trades and adjusting/exiting our existing positions, so be sure to <a href="https://twitter.com/theta_positive" title="Follow @thetatrades on Twitter">follow us on Twitter</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Nothing New]]></title>
-    <link href="http://www.thetatrades.com/blog/2016/05/13/nothing-new/"/>
-    <updated>2016-05-13T05:32:26-07:00</updated>
-    <id>http://www.thetatrades.com/blog/2016/05/13/nothing-new</id>
-    <content type="html"><![CDATA[<p><a href="http://www.thetatrades.com/images/blog/05132016/es.png"><img src="http://www.thetatrades.com/images/blog/05132016/es.png" alt="/ES - 2016-05-13 - 15m Chart - Volume Profile" /></a></p>
-
-<p>Yesterday, we had another day where value area overlapped the prior days&rsquo;s value area. Again, this spells low confidence - traders have a tough time getting prices to trend in any direction whatsoever. We had liquidation breaks followed by short squeezes closely following each other in many of the recent sessions (yesterday&rsquo;s price action showed that very clearly), so the struggle between the Bulls and the Bears continue.</p>
-
-<p>The /ES is currently down approximately 4 points at the time of this writing. For today, I&rsquo;m not expecting much, as I&rsquo;m still neutral here until we get out of this low confidence environment and are able to establish a trend. Remember guys, don&rsquo;t be fooled by price; continue watching those value areas, and keep in mind the HVN at 2050 below us, and 2075 above us.</p>
-
-<p>That&rsquo;s it for today&rsquo;s market outlook. As a side note, I&rsquo;ll be out of town until 5/23 and will have limited access to the blog during this time; however, I will still be managing our trades, so make sure to <a href="https://twitter.com/theta_positive" title="Follow @thetatrades on Twitter">follow me on Twitter</a> - that&rsquo;s where I post all of my trade entries/adjustments/exits in real-time. To get the most out of Twitter, turn on notifications specifically from me to be able to get my tweets on your phone as they come.</p>
-
-<p>Good luck in the markets, and enjoy the weekend.</p>
 ]]></content>
   </entry>
   
