@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: smoking | ThetaTrades]]></title>
+  <link href="http://www.thetatrades.com/blog/categories/smoking/atom.xml" rel="self"/>
+  <link href="http://www.thetatrades.com/"/>
+  <updated>2017-02-04T16:12:03-08:00</updated>
+  <id>http://www.thetatrades.com/</id>
+  <author>
+    <name><![CDATA[theta]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[How To Cover Your Cigarette Expenses]]></title>
+    <link href="http://www.thetatrades.com/blog/2017/02/04/how-to-cover-your-cigarette-expenses/"/>
+    <updated>2017-02-04T16:01:50-08:00</updated>
+    <id>http://www.thetatrades.com/blog/2017/02/04/how-to-cover-your-cigarette-expenses</id>
+    <content type="html"><![CDATA[<p>This year, the <a href="http://finviz.com/groups.ashx?g=industry&amp;v=210&amp;o=-perf1w" title="Top Performing Sectors - 8.3% Return on Tobacco Products Sector">tobacco industry has already shown a 8.3% return on investment</a>. We&rsquo;re looking for this trend to continue. One stock in this industry is Philip Morris - the largest cigarette manufacturer in America. Please observe the chart below:</p>
+
+<h3 id="20170204-pm">PM</h3>
+
+
+<p><a href="/images/blog/20170204/pm.png"><img src="/images/blog/20170204/pm.png" alt="PM - 2017-02-04 - Daily" /></a></p>
+
+<p>PM is in a strong uptrend, breaking the 200MA and very far from the 20MA. We&rsquo;re now exploring the upper balance area set from 2016. Given the strong industry, how earnings has already passed, and that we&rsquo;re now in this upper range of balance and expect it to stay within this range, we&rsquo;re looking to collect premium in a favorable buy spot around the 200MA at $95.</p>
+
+<p>Going over to the option chain and selecting the 95 Put strike in March:</p>
+
+<p><a href="/images/blog/20170204/pmoc.png"><img src="/images/blog/20170204/pmoc.png" alt="PM - 2017-02-04 - Daily" /></a></p>
+
+<p>With the bid at .34 and the ask at .41, we can look to sell this option for around .37. Essentially we could collect about $37 by March expiration. Hey, that covers the cost of about 6 or 7 cigarette packs. Although if you&rsquo;re smoking this much a month, you should really consider cutting back, for the sake of your health.</p>
+
+<p>If you&rsquo;re interested in more ideas like this, <a href="https://twitter.com/theta_positive" title="Follow @thetatrades on Twitter">follow us on Twitter</a> to receive our tweets in real time whenever we make posts!</p>
+]]></content>
+  </entry>
+  
+</feed>
