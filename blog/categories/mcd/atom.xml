@@ -4,7 +4,7 @@
   <title><![CDATA[Category: mcd | ThetaTrades]]></title>
   <link href="http://www.thetatrades.com/blog/categories/mcd/atom.xml" rel="self"/>
   <link href="http://www.thetatrades.com/"/>
-  <updated>2017-02-04T19:57:51-08:00</updated>
+  <updated>2017-02-04T21:16:13-08:00</updated>
   <id>http://www.thetatrades.com/</id>
   <author>
     <name><![CDATA[theta]]></name>
@@ -12,6 +12,32 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[McDonald's - Utilizing a Backratio Financed By a Naked Put]]></title>
+    <link href="http://www.thetatrades.com/blog/2017/02/04/mcdonalds-utilizing-a-backratio-financed-by-a-naked-put/"/>
+    <updated>2017-02-04T21:04:07-08:00</updated>
+    <id>http://www.thetatrades.com/blog/2017/02/04/mcdonalds-utilizing-a-backratio-financed-by-a-naked-put</id>
+    <content type="html"><![CDATA[<p>We&rsquo;re fans of the naked put - an option that allows us to buy the underlying at a price that we deem reasonable, while collecting some premium during the process. But sometimes, we want to capture more gains to the upside. In this case, we can consider putting on some kind of a spread that, over time, allows us to make money if the underlying goes up.</p>
+
+<p>Let&rsquo;s take a look at $MCD as an example:</p>
+
+<h3 id="20170204-mcd">$MCD</h3>
+
+
+<p><a href="/images/blog/20170204/mcd.png"><img src="/images/blog/20170204/mcd.png" alt="MCD - 2017-02-04 - Daily" /></a></p>
+
+<p>Here&rsquo;s the chart of $MCD - obviously quite bullish. With earnings aside and the trendline resistance broken, $MCD has room to run back to the all time highs of 132. If we want to capture a move to 132, a 130/135 call backratio spread would net us about 2.00 in profit (per spread). This spread alone costs a slight debit, but if our overall bias on $MCD is bullish, we can finance it with a naked put at a price level which we deem reasonable to buy stock. Given that the 200 period moving average is around 118, we can look to sell a put option slightly below that, or the 115 put option.</p>
+
+<p>Ultimately, the trade setup comes out to selling the 115 put option, and buying the 130 call option, and selling two times the 135 call option, all expiring in March:</p>
+
+<p><a href="/images/blog/20170204/mcdoc.png"><img src="/images/blog/20170204/mcdoc.png" alt="MCD Risk Graph- 2017-02-04 - Daily" /></a></p>
+
+<p>IF $MCD manages to go higher and stay between $115 and $140 by expiration, we&rsquo;ll be profitable (90% chance of happening). And if it lands anywhere near 135 by expiration, we&rsquo;ll get to make roughly 5.00, or $500. Putting on this spread allows us to collect .17 in credit. Essentially, we get paid $17 to make roughly $500. That should cover a whole year&rsquo;s worth of eating at McDonald&rsquo;s.</p>
+
+<p>If you&rsquo;re interested in more ideas like this, <a href="https://twitter.com/theta_positive" title="Follow @thetatrades on Twitter">follow us on Twitter</a> or <a href="https://facebook.com/thetatrades" title="Follow @thetatrades on Facebook">Facebook</a> to receive our tweets and posts in real time!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Trade the Trend]]></title>
