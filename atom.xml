@@ -4,7 +4,7 @@
   <title><![CDATA[ThetaTrades]]></title>
   <link href="http://www.thetatrades.com/atom.xml" rel="self"/>
   <link href="http://www.thetatrades.com/"/>
-  <updated>2017-02-05T01:03:45-08:00</updated>
+  <updated>2017-02-05T12:07:56-08:00</updated>
   <id>http://www.thetatrades.com/</id>
   <author>
     <name><![CDATA[theta]]></name>
@@ -12,6 +12,77 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[NOC on Wood]]></title>
+    <link href="http://www.thetatrades.com/blog/2017/02/05/noc-on-wood/"/>
+    <updated>2017-02-05T11:51:01-08:00</updated>
+    <id>http://www.thetatrades.com/blog/2017/02/05/noc-on-wood</id>
+    <content type="html"><![CDATA[<p>As always, we&rsquo;re big fans of trading with the trend. One particular stock showed up in our scans as a great candidate for trend trading - $NOC. Please observe the daily chart below:</p>
+
+<h3 id="20170205-noc">$NOC</h3>
+
+
+<p><a href="http://www.thetatrades.com/images/blog/20170205/noc.png"><img src="http://www.thetatrades.com/images/blog/20170205/noc.png" alt="NOC - 2017-02-05 - Daily" /></a></p>
+
+<p>In the case of $NOC, the trend is clearly up. This stock has been in an uptrend for a while and has shown to hold the 200MA really well. Following our mantra of trading with the trend, we&rsquo;re looking to initiate a buy at $229.37, with a wide stop below the 200MA at around $217. We&rsquo;ll target the ATH and higher, resulting in a trade that generates roughly a 2*R return. For management, we&rsquo;ll simply trail our stop loss with the 200MA. Barring news/black swan events, we&rsquo;re looking for this stock to continue its trend higher (knock on wood).</p>
+
+<p>Those that are more aggressive and looking to stack more R&rsquo;s can purchase an OTM call option to take advantage of any potential swings higher, like so:</p>
+
+<p><a href="http://www.thetatrades.com/images/blog/20170205/nococ.png"><img src="http://www.thetatrades.com/images/blog/20170205/nococ.png" alt="NOC - 2017-02-05 - Options Chain" /></a></p>
+
+<p>Do be aware of the option&rsquo;s theta decay.</p>
+
+<p>If you&rsquo;re interested in more ideas like this, <a href="https://twitter.com/theta_positive" title="Follow @thetatrades on Twitter">follow us on Twitter</a> or <a href="https://facebook.com/thetatrades" title="Follow @thetatrades on Facebook">Facebook</a> to receive our tweets and posts in real time! And if you haven&rsquo;t yet, subscribe to our email listing below to receive get special email alerts as well.</p>
+
+<div class="mailchimp-container">
+<!-- Begin MailChimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+    #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+    /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+       We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<div id="mc_embed_signup">
+<form action="//thetatrades.us15.list-manage.com/subscribe/post?u=6bda6bf3f9f26dec5de37ce46&amp;id=0e87c74d0f" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+    <h2>Subscribe to our mailing list</h2>
+<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+<div class="mc-field-group">
+    <label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
+</label>
+    <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+</div>
+<div class="mc-field-group">
+    <label for="mce-FNAME">First Name </label>
+    <input type="text" value="" name="FNAME" class="" id="mce-FNAME">
+</div>
+<div class="mc-field-group">
+    <label for="mce-LNAME">Last Name </label>
+    <input type="text" value="" name="LNAME" class="" id="mce-LNAME">
+</div>
+    <div id="mce-responses" class="clear">
+        <div class="response" id="mce-error-response" style="display:none"></div>
+        <div class="response" id="mce-success-response" style="display:none"></div>
+    </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_6bda6bf3f9f26dec5de37ce46_0e87c74d0f" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+</div>
+
+<!--End mc_embed_signup-->
+</div>
+
+
+
+
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=3c36f001-e4b7-4c98-bffa-716b4f4878ab"></script>
+
+
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[McDonald's - Utilizing a Backratio Financed By a Naked Put]]></title>
@@ -1227,31 +1298,6 @@ The down move has been slightly overextended. If you&rsquo;re expecting a pullba
 <p>This past week, we made many trade adjustments. Keep an eye on <a href="http://www.thetatrades.com/trades#KORS" title="KORS">KORS</a>, <a href="http://www.thetatrades.com/trades#NFLX" title="NFLX">NFLX</a>, <a href="http://www.thetatrades.com/trades#CL_F" title="/CL">/CL</a>, <a href="http://www.thetatrades.com/trades#SQ" title="SQ">SQ</a>, and <a href="http://www.thetatrades.com/trades#SLV" title="SLV">SLV</a> as potential winners to manage. As always, I will be tweeting out entries/adjustments/exits on Twitter, so if you haven&rsquo;t already, make sure to <a href="https://twitter.com/theta_positive" title="Follow @thetatrades on Twitter">follow me on Twitter</a> to get these updates in real-time.</p>
 
 <p>That&rsquo;s it for this week&rsquo;s market recap and outlook. Enjoy the weekend everyone!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Comments on Gold Trade]]></title>
-    <link href="http://www.thetatrades.com/blog/2016/05/31/comments-on-existing-gold-trade/"/>
-    <updated>2016-05-31T18:49:04-07:00</updated>
-    <id>http://www.thetatrades.com/blog/2016/05/31/comments-on-existing-gold-trade</id>
-    <content type="html"><![CDATA[<p>Hope everyone had a great Memorial weekend!</p>
-
-<p>Today we placed a couple of new trades, one of them being on Gold:</p>
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">BOT BUTTERFLY /GCQ6 1/100 JUL 16 /OGN6 (27) 1150/1135/1110 P at .20</p>&mdash; theta (@theta_positive) <a href="https://twitter.com/theta_positive/status/737632334749388800">May 31, 2016</a></blockquote>
-
-
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-<p>Let&rsquo;s take a look at the daily chart for /GC:</p>
-
-<p><a href="http://www.thetatrades.com/images/blog/05312016/gc.png"><img src="http://www.thetatrades.com/images/blog/05312016/gc.png" alt="/GC - 2016-05-31 - Daily Chart - Channel Support &amp; Analog Retracement" /></a></p>
-
-<p>There&rsquo;s an analog between the first break of the channel &ldquo;resistance&rdquo; and where /GC low-based (first pink rectangle), and where we just broke below that channel &ldquo;resistance&rdquo; later again at a higher price and where we may be low-basing going forward (right pink rectangle). We can expect the channel support to hold, and personally I will be long gold anywhere along that trendline. But for now, as long as /GC nears 1150 by expiration, we should be closing this trade out for a profit when the opportunity presents itself.</p>
-
-<p>This trade was posted live on Twitter this morning, and we&rsquo;ll be managing it together there as well. So if you haven&rsquo;t already, make sure to <a href="https://twitter.com/theta_positive" title="Follow @thetatrades on Twitter">follow me on Twitter</a> to receive tweets about this trade and our other trades in real-time.</p>
 ]]></content>
   </entry>
   
