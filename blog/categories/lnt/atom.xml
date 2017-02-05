@@ -4,7 +4,7 @@
   <title><![CDATA[Category: lnt | ThetaTrades]]></title>
   <link href="http://www.thetatrades.com/blog/categories/lnt/atom.xml" rel="self"/>
   <link href="http://www.thetatrades.com/"/>
-  <updated>2017-02-05T01:01:56-08:00</updated>
+  <updated>2017-02-05T01:03:45-08:00</updated>
   <id>http://www.thetatrades.com/</id>
   <author>
     <name><![CDATA[theta]]></name>
@@ -56,7 +56,8 @@ Very similar to all of the above, also with lots of room to the upside.</p>
 
 <p>If you&rsquo;re interested in more ideas like this, <a href="https://twitter.com/theta_positive" title="Follow @thetatrades on Twitter">follow us on Twitter</a> or <a href="https://facebook.com/thetatrades" title="Follow @thetatrades on Facebook">Facebook</a> to receive our tweets and posts in real time! And if you haven&rsquo;t yet, subscribe to our email listing below to receive get special email alerts as well.</p>
 
-<p><!-- Begin MailChimp Signup Form -->
+<p><div class="mailchimp-container">
+<!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
 	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
@@ -92,6 +93,7 @@ Very similar to all of the above, also with lots of room to the upside.</p>
 </div>
 
 <!--End mc_embed_signup-->
+</div>
 
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=3c36f001-e4b7-4c98-bffa-716b4f4878ab"></script>
 </p>
