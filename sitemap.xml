@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://www.thetatrades.com/blog/2017/02/08/long-len/</loc>
+<lastmod>2017-02-08T17:29:27-08:00</lastmod>
+</url>
+<url>
 <loc>http://www.thetatrades.com/blog/2017/02/07/long-nflx/</loc>
 <lastmod>2017-02-07T18:17:01-08:00</lastmod>
 </url>
@@ -727,6 +731,12 @@
 </url>
 <url>
 <loc>http://www.thetatrades.com/blog/categories/breakout/</loc>
+</url>
+<url>
+<loc>http://www.thetatrades.com/blog/categories/len/</loc>
+</url>
+<url>
+<loc>http://www.thetatrades.com/blog/categories/trend-trade/</loc>
 </url>
 <url>
 <loc>http://www.thetatrades.com/posts/2/</loc>
