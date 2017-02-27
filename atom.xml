@@ -4,7 +4,7 @@
   <title><![CDATA[ThetaTrades]]></title>
   <link href="http://www.thetatrades.com/atom.xml" rel="self"/>
   <link href="http://www.thetatrades.com/"/>
-  <updated>2017-02-26T22:27:17-08:00</updated>
+  <updated>2017-02-27T09:30:38-08:00</updated>
   <id>http://www.thetatrades.com/</id>
   <author>
     <name><![CDATA[theta]]></name>
@@ -28,51 +28,15 @@
 
 <p>If you&rsquo;re interested in more ideas like this, <a href="https://twitter.com/theta_positive" title="Follow @thetatrades on Twitter">follow us on Twitter</a> or <a href="https://facebook.com/thetatrades" title="Follow @thetatrades on Facebook">Facebook</a> to receive our tweets and posts in real time! And if you haven&rsquo;t yet, subscribe to our email listing below to receive special email alerts as well.</p>
 
-<div class="mailchimp-container">
-<!-- Begin MailChimp Signup Form -->
-<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-    #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
-    /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
-       We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-</style>
-<div id="mc_embed_signup">
-<form action="//thetatrades.us15.list-manage.com/subscribe/post?u=6bda6bf3f9f26dec5de37ce46&amp;id=0e87c74d0f" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-    <h2>Subscribe to our mailing list</h2>
-<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
-<div class="mc-field-group">
-    <label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
-</label>
-    <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
-</div>
-<div class="mc-field-group">
-    <label for="mce-FNAME">First Name </label>
-    <input type="text" value="" name="FNAME" class="" id="mce-FNAME">
-</div>
-<div class="mc-field-group">
-    <label for="mce-LNAME">Last Name </label>
-    <input type="text" value="" name="LNAME" class="" id="mce-LNAME">
-</div>
-    <div id="mce-responses" class="clear">
-        <div class="response" id="mce-error-response" style="display:none"></div>
-        <div class="response" id="mce-success-response" style="display:none"></div>
-    </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_6bda6bf3f9f26dec5de37ce46_0e87c74d0f" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-    </div>
-</form>
-</div>
-
-<!--End mc_embed_signup-->
+<div class="subscribe-button">
+    <button>Subscribe to Our Posts!</button>
 </div>
 
 
 
 
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=3c36f001-e4b7-4c98-bffa-716b4f4878ab"></script>
-
-
+<!-- <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=3c36f001-e4b7-4c98-bffa-716b4f4878ab"></script>
+ -->
 
 ]]></content>
   </entry>
@@ -90,51 +54,15 @@
 
 <p>Entry would be around 14.23, and stop would be placed outside the average noise, below the 200MA at around 12.01. As always, remember to always trade with the trend, and ride it for as long as possible.</p>
 
-<div class="mailchimp-container">
-<!-- Begin MailChimp Signup Form -->
-<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-    #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
-    /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
-       We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-</style>
-<div id="mc_embed_signup">
-<form action="//thetatrades.us15.list-manage.com/subscribe/post?u=6bda6bf3f9f26dec5de37ce46&amp;id=0e87c74d0f" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-    <h2>Subscribe to our mailing list</h2>
-<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
-<div class="mc-field-group">
-    <label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
-</label>
-    <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
-</div>
-<div class="mc-field-group">
-    <label for="mce-FNAME">First Name </label>
-    <input type="text" value="" name="FNAME" class="" id="mce-FNAME">
-</div>
-<div class="mc-field-group">
-    <label for="mce-LNAME">Last Name </label>
-    <input type="text" value="" name="LNAME" class="" id="mce-LNAME">
-</div>
-    <div id="mce-responses" class="clear">
-        <div class="response" id="mce-error-response" style="display:none"></div>
-        <div class="response" id="mce-success-response" style="display:none"></div>
-    </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_6bda6bf3f9f26dec5de37ce46_0e87c74d0f" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-    </div>
-</form>
-</div>
-
-<!--End mc_embed_signup-->
+<div class="subscribe-button">
+    <button>Subscribe to Our Posts!</button>
 </div>
 
 
 
 
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=3c36f001-e4b7-4c98-bffa-716b4f4878ab"></script>
-
-
+<!-- <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=3c36f001-e4b7-4c98-bffa-716b4f4878ab"></script>
+ -->
 
 ]]></content>
   </entry>
@@ -150,51 +78,15 @@
 
 <p>Over the past four trading days, $CMG has held above the 200MA. Still close to the moving average, one can look to initiate a long position, with entry at around 430, and a stop loss below the 200MA, far enough to avoid the average noise the stock makes. As such, the stop could be placed around 403.67. Once set, if $CMG does take off, we simply enjoy the ride, and continue trading the trend, while moving our stops up with the 200MA.</p>
 
-<div class="mailchimp-container">
-<!-- Begin MailChimp Signup Form -->
-<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-    #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
-    /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
-       We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-</style>
-<div id="mc_embed_signup">
-<form action="//thetatrades.us15.list-manage.com/subscribe/post?u=6bda6bf3f9f26dec5de37ce46&amp;id=0e87c74d0f" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-    <h2>Subscribe to our mailing list</h2>
-<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
-<div class="mc-field-group">
-    <label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
-</label>
-    <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
-</div>
-<div class="mc-field-group">
-    <label for="mce-FNAME">First Name </label>
-    <input type="text" value="" name="FNAME" class="" id="mce-FNAME">
-</div>
-<div class="mc-field-group">
-    <label for="mce-LNAME">Last Name </label>
-    <input type="text" value="" name="LNAME" class="" id="mce-LNAME">
-</div>
-    <div id="mce-responses" class="clear">
-        <div class="response" id="mce-error-response" style="display:none"></div>
-        <div class="response" id="mce-success-response" style="display:none"></div>
-    </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_6bda6bf3f9f26dec5de37ce46_0e87c74d0f" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-    </div>
-</form>
-</div>
-
-<!--End mc_embed_signup-->
+<div class="subscribe-button">
+    <button>Subscribe to Our Posts!</button>
 </div>
 
 
 
 
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=3c36f001-e4b7-4c98-bffa-716b4f4878ab"></script>
-
-
+<!-- <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=3c36f001-e4b7-4c98-bffa-716b4f4878ab"></script>
+ -->
 
 ]]></content>
   </entry>
@@ -226,51 +118,15 @@ $MYL: recaptured 200MA and holding. Stop below 200MA.</p>
 
 <p>As always, if entering these positions, place stops away from the average noise the stock makes. Think about risk first, and size up your position according to how much you are comfortable with losing if your stop were to get hit. Once set, enjoy the ride with the trend.</p>
 
-<div class="mailchimp-container">
-<!-- Begin MailChimp Signup Form -->
-<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-    #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
-    /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
-       We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-</style>
-<div id="mc_embed_signup">
-<form action="//thetatrades.us15.list-manage.com/subscribe/post?u=6bda6bf3f9f26dec5de37ce46&amp;id=0e87c74d0f" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-    <h2>Subscribe to our mailing list</h2>
-<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
-<div class="mc-field-group">
-    <label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
-</label>
-    <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
-</div>
-<div class="mc-field-group">
-    <label for="mce-FNAME">First Name </label>
-    <input type="text" value="" name="FNAME" class="" id="mce-FNAME">
-</div>
-<div class="mc-field-group">
-    <label for="mce-LNAME">Last Name </label>
-    <input type="text" value="" name="LNAME" class="" id="mce-LNAME">
-</div>
-    <div id="mce-responses" class="clear">
-        <div class="response" id="mce-error-response" style="display:none"></div>
-        <div class="response" id="mce-success-response" style="display:none"></div>
-    </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_6bda6bf3f9f26dec5de37ce46_0e87c74d0f" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-    </div>
-</form>
-</div>
-
-<!--End mc_embed_signup-->
+<div class="subscribe-button">
+    <button>Subscribe to Our Posts!</button>
 </div>
 
 
 
 
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=3c36f001-e4b7-4c98-bffa-716b4f4878ab"></script>
-
-
+<!-- <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=3c36f001-e4b7-4c98-bffa-716b4f4878ab"></script>
+ -->
 
 ]]></content>
   </entry>
@@ -336,51 +192,15 @@ $MYL: recaptured 200MA and holding. Stop below 200MA.</p>
 
 <p>$SWKS has exploded like a firework after earnings and has recently consolidated around the 92 level. As the 20MA catches up, we&rsquo;re looking for buyers to step in and hold price above that curve. We&rsquo;re looking for another set of fireworks - a breakout above 94. It wouldn&rsquo;t be a bad idea to start accumulating some long deltas. For stock, we&rsquo;ll be going long at 91.80 with a stop below the 20MA at 87.46.</p>
 
-<div class="mailchimp-container">
-<!-- Begin MailChimp Signup Form -->
-<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-    #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
-    /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
-       We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-</style>
-<div id="mc_embed_signup">
-<form action="//thetatrades.us15.list-manage.com/subscribe/post?u=6bda6bf3f9f26dec5de37ce46&amp;id=0e87c74d0f" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-    <h2>Subscribe to our mailing list</h2>
-<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
-<div class="mc-field-group">
-    <label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
-</label>
-    <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
-</div>
-<div class="mc-field-group">
-    <label for="mce-FNAME">First Name </label>
-    <input type="text" value="" name="FNAME" class="" id="mce-FNAME">
-</div>
-<div class="mc-field-group">
-    <label for="mce-LNAME">Last Name </label>
-    <input type="text" value="" name="LNAME" class="" id="mce-LNAME">
-</div>
-    <div id="mce-responses" class="clear">
-        <div class="response" id="mce-error-response" style="display:none"></div>
-        <div class="response" id="mce-success-response" style="display:none"></div>
-    </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_6bda6bf3f9f26dec5de37ce46_0e87c74d0f" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-    </div>
-</form>
-</div>
-
-<!--End mc_embed_signup-->
+<div class="subscribe-button">
+    <button>Subscribe to Our Posts!</button>
 </div>
 
 
 
 
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=3c36f001-e4b7-4c98-bffa-716b4f4878ab"></script>
-
-
+<!-- <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=3c36f001-e4b7-4c98-bffa-716b4f4878ab"></script>
+ -->
 
 ]]></content>
   </entry>
@@ -398,51 +218,15 @@ $MYL: recaptured 200MA and holding. Stop below 200MA.</p>
 
 <p>With earnings out of the way, and with it reclaiming the 20, 50, and 200MA via a strong close, $DUK looks like it&rsquo;s positioned for another run up. We&rsquo;ll look to buy if price crosses above 78.90, with a stop at 75.79 to give us some leeway to account for recent noise. As long as price holds and trends upward, we&rsquo;ll continue to hold.</p>
 
-<div class="mailchimp-container">
-<!-- Begin MailChimp Signup Form -->
-<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-    #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
-    /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
-       We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-</style>
-<div id="mc_embed_signup">
-<form action="//thetatrades.us15.list-manage.com/subscribe/post?u=6bda6bf3f9f26dec5de37ce46&amp;id=0e87c74d0f" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-    <h2>Subscribe to our mailing list</h2>
-<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
-<div class="mc-field-group">
-    <label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
-</label>
-    <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
-</div>
-<div class="mc-field-group">
-    <label for="mce-FNAME">First Name </label>
-    <input type="text" value="" name="FNAME" class="" id="mce-FNAME">
-</div>
-<div class="mc-field-group">
-    <label for="mce-LNAME">Last Name </label>
-    <input type="text" value="" name="LNAME" class="" id="mce-LNAME">
-</div>
-    <div id="mce-responses" class="clear">
-        <div class="response" id="mce-error-response" style="display:none"></div>
-        <div class="response" id="mce-success-response" style="display:none"></div>
-    </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_6bda6bf3f9f26dec5de37ce46_0e87c74d0f" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-    </div>
-</form>
-</div>
-
-<!--End mc_embed_signup-->
+<div class="subscribe-button">
+    <button>Subscribe to Our Posts!</button>
 </div>
 
 
 
 
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=3c36f001-e4b7-4c98-bffa-716b4f4878ab"></script>
-
-
+<!-- <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=3c36f001-e4b7-4c98-bffa-716b4f4878ab"></script>
+ -->
 
 ]]></content>
   </entry>
@@ -468,51 +252,15 @@ $MYL: recaptured 200MA and holding. Stop below 200MA.</p>
 
 <p>$TXN has also trended nicely over the past year, holding above the 50MA. We&rsquo;ve pulled back to it recently, making it a great location to get long. We&rsquo;re looking to get long above 75.76, with a stop at 72.20. We&rsquo;ll continue staying long as long as trend holds.</p>
 
-<div class="mailchimp-container">
-<!-- Begin MailChimp Signup Form -->
-<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-    #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
-    /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
-       We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-</style>
-<div id="mc_embed_signup">
-<form action="//thetatrades.us15.list-manage.com/subscribe/post?u=6bda6bf3f9f26dec5de37ce46&amp;id=0e87c74d0f" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-    <h2>Subscribe to our mailing list</h2>
-<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
-<div class="mc-field-group">
-    <label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
-</label>
-    <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
-</div>
-<div class="mc-field-group">
-    <label for="mce-FNAME">First Name </label>
-    <input type="text" value="" name="FNAME" class="" id="mce-FNAME">
-</div>
-<div class="mc-field-group">
-    <label for="mce-LNAME">Last Name </label>
-    <input type="text" value="" name="LNAME" class="" id="mce-LNAME">
-</div>
-    <div id="mce-responses" class="clear">
-        <div class="response" id="mce-error-response" style="display:none"></div>
-        <div class="response" id="mce-success-response" style="display:none"></div>
-    </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_6bda6bf3f9f26dec5de37ce46_0e87c74d0f" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-    </div>
-</form>
-</div>
-
-<!--End mc_embed_signup-->
+<div class="subscribe-button">
+    <button>Subscribe to Our Posts!</button>
 </div>
 
 
 
 
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=3c36f001-e4b7-4c98-bffa-716b4f4878ab"></script>
-
-
+<!-- <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=3c36f001-e4b7-4c98-bffa-716b4f4878ab"></script>
+ -->
 
 ]]></content>
   </entry>
@@ -557,51 +305,15 @@ This is the opposite of seeing yourself as a ‘victim,’ subject to forces bey
 
 <p>If you&rsquo;re interested in more ideas like this, <a href="https://twitter.com/theta_positive" title="Follow @thetatrades on Twitter">follow us on Twitter</a> or <a href="https://facebook.com/thetatrades" title="Follow @thetatrades on Facebook">Facebook</a> to receive our tweets and posts in real time! And if you haven&rsquo;t yet, subscribe to our email listing below to receive special email alerts as well.</p>
 
-<div class="mailchimp-container">
-<!-- Begin MailChimp Signup Form -->
-<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-    #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
-    /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
-       We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-</style>
-<div id="mc_embed_signup">
-<form action="//thetatrades.us15.list-manage.com/subscribe/post?u=6bda6bf3f9f26dec5de37ce46&amp;id=0e87c74d0f" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-    <h2>Subscribe to our mailing list</h2>
-<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
-<div class="mc-field-group">
-    <label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
-</label>
-    <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
-</div>
-<div class="mc-field-group">
-    <label for="mce-FNAME">First Name </label>
-    <input type="text" value="" name="FNAME" class="" id="mce-FNAME">
-</div>
-<div class="mc-field-group">
-    <label for="mce-LNAME">Last Name </label>
-    <input type="text" value="" name="LNAME" class="" id="mce-LNAME">
-</div>
-    <div id="mce-responses" class="clear">
-        <div class="response" id="mce-error-response" style="display:none"></div>
-        <div class="response" id="mce-success-response" style="display:none"></div>
-    </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_6bda6bf3f9f26dec5de37ce46_0e87c74d0f" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-    </div>
-</form>
-</div>
-
-<!--End mc_embed_signup-->
+<div class="subscribe-button">
+    <button>Subscribe to Our Posts!</button>
 </div>
 
 
 
 
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=3c36f001-e4b7-4c98-bffa-716b4f4878ab"></script>
-
-
+<!-- <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=3c36f001-e4b7-4c98-bffa-716b4f4878ab"></script>
+ -->
 
 ]]></content>
   </entry>
@@ -622,51 +334,15 @@ This is the opposite of seeing yourself as a ‘victim,’ subject to forces bey
 
 <p>If you&rsquo;re interested in more ideas like this, <a href="https://twitter.com/theta_positive" title="Follow @thetatrades on Twitter">follow us on Twitter</a> or <a href="https://facebook.com/thetatrades" title="Follow @thetatrades on Facebook">Facebook</a> to receive our tweets and posts in real time! And if you haven&rsquo;t yet, subscribe to our email listing below to receive special email alerts as well.</p>
 
-<div class="mailchimp-container">
-<!-- Begin MailChimp Signup Form -->
-<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-    #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
-    /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
-       We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-</style>
-<div id="mc_embed_signup">
-<form action="//thetatrades.us15.list-manage.com/subscribe/post?u=6bda6bf3f9f26dec5de37ce46&amp;id=0e87c74d0f" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-    <h2>Subscribe to our mailing list</h2>
-<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
-<div class="mc-field-group">
-    <label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
-</label>
-    <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
-</div>
-<div class="mc-field-group">
-    <label for="mce-FNAME">First Name </label>
-    <input type="text" value="" name="FNAME" class="" id="mce-FNAME">
-</div>
-<div class="mc-field-group">
-    <label for="mce-LNAME">Last Name </label>
-    <input type="text" value="" name="LNAME" class="" id="mce-LNAME">
-</div>
-    <div id="mce-responses" class="clear">
-        <div class="response" id="mce-error-response" style="display:none"></div>
-        <div class="response" id="mce-success-response" style="display:none"></div>
-    </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_6bda6bf3f9f26dec5de37ce46_0e87c74d0f" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-    </div>
-</form>
-</div>
-
-<!--End mc_embed_signup-->
+<div class="subscribe-button">
+    <button>Subscribe to Our Posts!</button>
 </div>
 
 
 
 
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=3c36f001-e4b7-4c98-bffa-716b4f4878ab"></script>
-
-
+<!-- <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=3c36f001-e4b7-4c98-bffa-716b4f4878ab"></script>
+ -->
 
 ]]></content>
   </entry>
@@ -687,51 +363,15 @@ This is the opposite of seeing yourself as a ‘victim,’ subject to forces bey
 
 <p>If you&rsquo;re interested in more ideas like this, <a href="https://twitter.com/theta_positive" title="Follow @thetatrades on Twitter">follow us on Twitter</a> or <a href="https://facebook.com/thetatrades" title="Follow @thetatrades on Facebook">Facebook</a> to receive our tweets and posts in real time! And if you haven&rsquo;t yet, subscribe to our email listing below to receive special email alerts as well.</p>
 
-<div class="mailchimp-container">
-<!-- Begin MailChimp Signup Form -->
-<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-    #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
-    /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
-       We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-</style>
-<div id="mc_embed_signup">
-<form action="//thetatrades.us15.list-manage.com/subscribe/post?u=6bda6bf3f9f26dec5de37ce46&amp;id=0e87c74d0f" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-    <h2>Subscribe to our mailing list</h2>
-<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
-<div class="mc-field-group">
-    <label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
-</label>
-    <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
-</div>
-<div class="mc-field-group">
-    <label for="mce-FNAME">First Name </label>
-    <input type="text" value="" name="FNAME" class="" id="mce-FNAME">
-</div>
-<div class="mc-field-group">
-    <label for="mce-LNAME">Last Name </label>
-    <input type="text" value="" name="LNAME" class="" id="mce-LNAME">
-</div>
-    <div id="mce-responses" class="clear">
-        <div class="response" id="mce-error-response" style="display:none"></div>
-        <div class="response" id="mce-success-response" style="display:none"></div>
-    </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_6bda6bf3f9f26dec5de37ce46_0e87c74d0f" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-    </div>
-</form>
-</div>
-
-<!--End mc_embed_signup-->
+<div class="subscribe-button">
+    <button>Subscribe to Our Posts!</button>
 </div>
 
 
 
 
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=3c36f001-e4b7-4c98-bffa-716b4f4878ab"></script>
-
-
+<!-- <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=3c36f001-e4b7-4c98-bffa-716b4f4878ab"></script>
+ -->
 
 ]]></content>
   </entry>
@@ -754,51 +394,15 @@ This is the opposite of seeing yourself as a ‘victim,’ subject to forces bey
 
 <p>If you&rsquo;re interested in more ideas like this, <a href="https://twitter.com/theta_positive" title="Follow @thetatrades on Twitter">follow us on Twitter</a> or <a href="https://facebook.com/thetatrades" title="Follow @thetatrades on Facebook">Facebook</a> to receive our tweets and posts in real time! And if you haven&rsquo;t yet, subscribe to our email listing below to receive special email alerts as well.</p>
 
-<div class="mailchimp-container">
-<!-- Begin MailChimp Signup Form -->
-<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-    #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
-    /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
-       We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-</style>
-<div id="mc_embed_signup">
-<form action="//thetatrades.us15.list-manage.com/subscribe/post?u=6bda6bf3f9f26dec5de37ce46&amp;id=0e87c74d0f" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-    <h2>Subscribe to our mailing list</h2>
-<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
-<div class="mc-field-group">
-    <label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
-</label>
-    <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
-</div>
-<div class="mc-field-group">
-    <label for="mce-FNAME">First Name </label>
-    <input type="text" value="" name="FNAME" class="" id="mce-FNAME">
-</div>
-<div class="mc-field-group">
-    <label for="mce-LNAME">Last Name </label>
-    <input type="text" value="" name="LNAME" class="" id="mce-LNAME">
-</div>
-    <div id="mce-responses" class="clear">
-        <div class="response" id="mce-error-response" style="display:none"></div>
-        <div class="response" id="mce-success-response" style="display:none"></div>
-    </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_6bda6bf3f9f26dec5de37ce46_0e87c74d0f" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-    </div>
-</form>
-</div>
-
-<!--End mc_embed_signup-->
+<div class="subscribe-button">
+    <button>Subscribe to Our Posts!</button>
 </div>
 
 
 
 
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=3c36f001-e4b7-4c98-bffa-716b4f4878ab"></script>
-
-
+<!-- <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=3c36f001-e4b7-4c98-bffa-716b4f4878ab"></script>
+ -->
 
 ]]></content>
   </entry>
@@ -823,51 +427,15 @@ This is the opposite of seeing yourself as a ‘victim,’ subject to forces bey
 
 <p>If you&rsquo;re interested in more ideas like this, <a href="https://twitter.com/theta_positive" title="Follow @thetatrades on Twitter">follow us on Twitter</a> or <a href="https://facebook.com/thetatrades" title="Follow @thetatrades on Facebook">Facebook</a> to receive our tweets and posts in real time! And if you haven&rsquo;t yet, subscribe to our email listing below to receive special email alerts as well.</p>
 
-<div class="mailchimp-container">
-<!-- Begin MailChimp Signup Form -->
-<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-    #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
-    /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
-       We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-</style>
-<div id="mc_embed_signup">
-<form action="//thetatrades.us15.list-manage.com/subscribe/post?u=6bda6bf3f9f26dec5de37ce46&amp;id=0e87c74d0f" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-    <h2>Subscribe to our mailing list</h2>
-<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
-<div class="mc-field-group">
-    <label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
-</label>
-    <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
-</div>
-<div class="mc-field-group">
-    <label for="mce-FNAME">First Name </label>
-    <input type="text" value="" name="FNAME" class="" id="mce-FNAME">
-</div>
-<div class="mc-field-group">
-    <label for="mce-LNAME">Last Name </label>
-    <input type="text" value="" name="LNAME" class="" id="mce-LNAME">
-</div>
-    <div id="mce-responses" class="clear">
-        <div class="response" id="mce-error-response" style="display:none"></div>
-        <div class="response" id="mce-success-response" style="display:none"></div>
-    </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_6bda6bf3f9f26dec5de37ce46_0e87c74d0f" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-    </div>
-</form>
-</div>
-
-<!--End mc_embed_signup-->
+<div class="subscribe-button">
+    <button>Subscribe to Our Posts!</button>
 </div>
 
 
 
 
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=3c36f001-e4b7-4c98-bffa-716b4f4878ab"></script>
-
-
+<!-- <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=3c36f001-e4b7-4c98-bffa-716b4f4878ab"></script>
+ -->
 
 ]]></content>
   </entry>
@@ -898,51 +466,15 @@ This is the opposite of seeing yourself as a ‘victim,’ subject to forces bey
 
 <p>If you&rsquo;re interested in more ideas like this, <a href="https://twitter.com/theta_positive" title="Follow @thetatrades on Twitter">follow us on Twitter</a> or <a href="https://facebook.com/thetatrades" title="Follow @thetatrades on Facebook">Facebook</a> to receive our tweets and posts in real time! And if you haven&rsquo;t yet, subscribe to our email listing below to receive special email alerts as well.</p>
 
-<div class="mailchimp-container">
-<!-- Begin MailChimp Signup Form -->
-<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-    #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
-    /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
-       We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-</style>
-<div id="mc_embed_signup">
-<form action="//thetatrades.us15.list-manage.com/subscribe/post?u=6bda6bf3f9f26dec5de37ce46&amp;id=0e87c74d0f" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-    <h2>Subscribe to our mailing list</h2>
-<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
-<div class="mc-field-group">
-    <label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
-</label>
-    <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
-</div>
-<div class="mc-field-group">
-    <label for="mce-FNAME">First Name </label>
-    <input type="text" value="" name="FNAME" class="" id="mce-FNAME">
-</div>
-<div class="mc-field-group">
-    <label for="mce-LNAME">Last Name </label>
-    <input type="text" value="" name="LNAME" class="" id="mce-LNAME">
-</div>
-    <div id="mce-responses" class="clear">
-        <div class="response" id="mce-error-response" style="display:none"></div>
-        <div class="response" id="mce-success-response" style="display:none"></div>
-    </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_6bda6bf3f9f26dec5de37ce46_0e87c74d0f" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-    </div>
-</form>
-</div>
-
-<!--End mc_embed_signup-->
+<div class="subscribe-button">
+    <button>Subscribe to Our Posts!</button>
 </div>
 
 
 
 
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=3c36f001-e4b7-4c98-bffa-716b4f4878ab"></script>
-
-
+<!-- <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=3c36f001-e4b7-4c98-bffa-716b4f4878ab"></script>
+ -->
 
 ]]></content>
   </entry>
@@ -969,43 +501,8 @@ This is the opposite of seeing yourself as a ‘victim,’ subject to forces bey
 
 <p>If you&rsquo;re interested in more ideas like this, <a href="https://twitter.com/theta_positive" title="Follow @thetatrades on Twitter">follow us on Twitter</a> or <a href="https://facebook.com/thetatrades" title="Follow @thetatrades on Facebook">Facebook</a> to receive our tweets and posts in real time! And if you haven&rsquo;t yet, subscribe to our email listing below to receive special email alerts as well.</p>
 
-<div class="mailchimp-container">
-<!-- Begin MailChimp Signup Form -->
-<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-    #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
-    /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
-       We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-</style>
-<div id="mc_embed_signup">
-<form action="//thetatrades.us15.list-manage.com/subscribe/post?u=6bda6bf3f9f26dec5de37ce46&amp;id=0e87c74d0f" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-    <h2>Subscribe to our mailing list</h2>
-<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
-<div class="mc-field-group">
-    <label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
-</label>
-    <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
-</div>
-<div class="mc-field-group">
-    <label for="mce-FNAME">First Name </label>
-    <input type="text" value="" name="FNAME" class="" id="mce-FNAME">
-</div>
-<div class="mc-field-group">
-    <label for="mce-LNAME">Last Name </label>
-    <input type="text" value="" name="LNAME" class="" id="mce-LNAME">
-</div>
-    <div id="mce-responses" class="clear">
-        <div class="response" id="mce-error-response" style="display:none"></div>
-        <div class="response" id="mce-success-response" style="display:none"></div>
-    </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_6bda6bf3f9f26dec5de37ce46_0e87c74d0f" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-    </div>
-</form>
-</div>
-
-<!--End mc_embed_signup-->
+<div class="subscribe-button">
+    <button>Subscribe to Our Posts!</button>
 </div>
 
 
@@ -1038,43 +535,8 @@ This is the opposite of seeing yourself as a ‘victim,’ subject to forces bey
 
 <p>If you&rsquo;re interested in more ideas like this, <a href="https://twitter.com/theta_positive" title="Follow @thetatrades on Twitter">follow us on Twitter</a> or <a href="https://facebook.com/thetatrades" title="Follow @thetatrades on Facebook">Facebook</a> to receive our tweets and posts in real time! And if you haven&rsquo;t yet, subscribe to our email listing below to receive special email alerts as well.</p>
 
-<div class="mailchimp-container">
-<!-- Begin MailChimp Signup Form -->
-<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-    #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
-    /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
-       We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-</style>
-<div id="mc_embed_signup">
-<form action="//thetatrades.us15.list-manage.com/subscribe/post?u=6bda6bf3f9f26dec5de37ce46&amp;id=0e87c74d0f" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-    <h2>Subscribe to our mailing list</h2>
-<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
-<div class="mc-field-group">
-    <label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
-</label>
-    <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
-</div>
-<div class="mc-field-group">
-    <label for="mce-FNAME">First Name </label>
-    <input type="text" value="" name="FNAME" class="" id="mce-FNAME">
-</div>
-<div class="mc-field-group">
-    <label for="mce-LNAME">Last Name </label>
-    <input type="text" value="" name="LNAME" class="" id="mce-LNAME">
-</div>
-    <div id="mce-responses" class="clear">
-        <div class="response" id="mce-error-response" style="display:none"></div>
-        <div class="response" id="mce-success-response" style="display:none"></div>
-    </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_6bda6bf3f9f26dec5de37ce46_0e87c74d0f" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-    </div>
-</form>
-</div>
-
-<!--End mc_embed_signup-->
+<div class="subscribe-button">
+    <button>Subscribe to Our Posts!</button>
 </div>
 
 
@@ -1109,43 +571,8 @@ This is the opposite of seeing yourself as a ‘victim,’ subject to forces bey
 
 <p>If you&rsquo;re interested in more ideas like this, <a href="https://twitter.com/theta_positive" title="Follow @thetatrades on Twitter">follow us on Twitter</a> or <a href="https://facebook.com/thetatrades" title="Follow @thetatrades on Facebook">Facebook</a> to receive our tweets and posts in real time! And if you haven&rsquo;t yet, subscribe to our email listing below to receive special email alerts as well.</p>
 
-<div class="mailchimp-container">
-<!-- Begin MailChimp Signup Form -->
-<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-    #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
-    /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
-       We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-</style>
-<div id="mc_embed_signup">
-<form action="//thetatrades.us15.list-manage.com/subscribe/post?u=6bda6bf3f9f26dec5de37ce46&amp;id=0e87c74d0f" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-    <h2>Subscribe to our mailing list</h2>
-<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
-<div class="mc-field-group">
-    <label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
-</label>
-    <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
-</div>
-<div class="mc-field-group">
-    <label for="mce-FNAME">First Name </label>
-    <input type="text" value="" name="FNAME" class="" id="mce-FNAME">
-</div>
-<div class="mc-field-group">
-    <label for="mce-LNAME">Last Name </label>
-    <input type="text" value="" name="LNAME" class="" id="mce-LNAME">
-</div>
-    <div id="mce-responses" class="clear">
-        <div class="response" id="mce-error-response" style="display:none"></div>
-        <div class="response" id="mce-success-response" style="display:none"></div>
-    </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_6bda6bf3f9f26dec5de37ce46_0e87c74d0f" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-    </div>
-</form>
-</div>
-
-<!--End mc_embed_signup-->
+<div class="subscribe-button">
+    <button>Subscribe to Our Posts!</button>
 </div>
 
 
@@ -1182,43 +609,8 @@ This is the opposite of seeing yourself as a ‘victim,’ subject to forces bey
 
 <p>If you&rsquo;re interested in more ideas like this, <a href="https://twitter.com/theta_positive" title="Follow @thetatrades on Twitter">follow us on Twitter</a> or <a href="https://facebook.com/thetatrades" title="Follow @thetatrades on Facebook">Facebook</a> to receive our tweets and posts in real time! And if you haven&rsquo;t yet, subscribe to our email listing below to receive special email alerts as well.</p>
 
-<div class="mailchimp-container">
-<!-- Begin MailChimp Signup Form -->
-<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-    #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
-    /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
-       We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-</style>
-<div id="mc_embed_signup">
-<form action="//thetatrades.us15.list-manage.com/subscribe/post?u=6bda6bf3f9f26dec5de37ce46&amp;id=0e87c74d0f" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-    <h2>Subscribe to our mailing list</h2>
-<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
-<div class="mc-field-group">
-    <label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
-</label>
-    <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
-</div>
-<div class="mc-field-group">
-    <label for="mce-FNAME">First Name </label>
-    <input type="text" value="" name="FNAME" class="" id="mce-FNAME">
-</div>
-<div class="mc-field-group">
-    <label for="mce-LNAME">Last Name </label>
-    <input type="text" value="" name="LNAME" class="" id="mce-LNAME">
-</div>
-    <div id="mce-responses" class="clear">
-        <div class="response" id="mce-error-response" style="display:none"></div>
-        <div class="response" id="mce-success-response" style="display:none"></div>
-    </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_6bda6bf3f9f26dec5de37ce46_0e87c74d0f" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-    </div>
-</form>
-</div>
-
-<!--End mc_embed_signup-->
+<div class="subscribe-button">
+    <button>Subscribe to Our Posts!</button>
 </div>
 
 
@@ -1253,43 +645,8 @@ This is the opposite of seeing yourself as a ‘victim,’ subject to forces bey
 
 <p>If you&rsquo;re interested in more ideas like this, <a href="https://twitter.com/theta_positive" title="Follow @thetatrades on Twitter">follow us on Twitter</a> or <a href="https://facebook.com/thetatrades" title="Follow @thetatrades on Facebook">Facebook</a> to receive our tweets and posts in real time! And if you haven&rsquo;t yet, subscribe to our email listing below to receive special email alerts as well.</p>
 
-<div class="mailchimp-container">
-<!-- Begin MailChimp Signup Form -->
-<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-    #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
-    /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
-       We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-</style>
-<div id="mc_embed_signup">
-<form action="//thetatrades.us15.list-manage.com/subscribe/post?u=6bda6bf3f9f26dec5de37ce46&amp;id=0e87c74d0f" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-    <h2>Subscribe to our mailing list</h2>
-<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
-<div class="mc-field-group">
-    <label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
-</label>
-    <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
-</div>
-<div class="mc-field-group">
-    <label for="mce-FNAME">First Name </label>
-    <input type="text" value="" name="FNAME" class="" id="mce-FNAME">
-</div>
-<div class="mc-field-group">
-    <label for="mce-LNAME">Last Name </label>
-    <input type="text" value="" name="LNAME" class="" id="mce-LNAME">
-</div>
-    <div id="mce-responses" class="clear">
-        <div class="response" id="mce-error-response" style="display:none"></div>
-        <div class="response" id="mce-success-response" style="display:none"></div>
-    </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_6bda6bf3f9f26dec5de37ce46_0e87c74d0f" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-    </div>
-</form>
-</div>
-
-<!--End mc_embed_signup-->
+<div class="subscribe-button">
+    <button>Subscribe to Our Posts!</button>
 </div>
 
 
