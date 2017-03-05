@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://www.thetatrades.com/blog/2017/03/05/upcoming-trades-this-week/</loc>
+<lastmod>2017-03-05T11:16:28-08:00</lastmod>
+</url>
+<url>
 <loc>http://www.thetatrades.com/blog/2017/03/03/clf-long-opportunity/</loc>
 <lastmod>2017-03-03T12:07:18-08:00</lastmod>
 </url>
@@ -929,5 +933,14 @@
 </url>
 <url>
 <loc>http://www.thetatrades.com/blog/categories/clf/</loc>
+</url>
+<url>
+<loc>http://www.thetatrades.com/blog/categories/khc/</loc>
+</url>
+<url>
+<loc>http://www.thetatrades.com/blog/categories/ko/</loc>
+</url>
+<url>
+<loc>http://www.thetatrades.com/blog/categories/so/</loc>
 </url>
 </urlset>
